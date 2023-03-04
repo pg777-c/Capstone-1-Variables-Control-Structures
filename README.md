@@ -2,7 +2,7 @@
 Variables and Control Structures, Capstone  #1 of HyperionDev Data Science Bootcamp, Task 7
 
 
-THIS IS FOR A PROGRAM TO CALCULATE FINANCIAL INTEREST.
+THIS IS A PROGRAM TO CALCULATE FINANCIAL INTEREST.
 
 THE TASK BRIEF IS INDICATED BELOW:-
 
