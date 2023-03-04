@@ -1,5 +1,5 @@
 # Capstone-1-Variables-Control-Structures
-Variables and Control Structures, Capstone  #1 of HyperionDev Data Science Bootcamp, Task 7
+Variables and Control Structures, Capstone #1, Data Science Bootcamp, Task 7
 
 
 THIS IS A PROGRAM TO CALCULATE FINANCIAL INTEREST.
